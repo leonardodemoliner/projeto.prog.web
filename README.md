@@ -1,2 +1,2 @@
 Turismo Cultural
-Nomes: Leonardo Demoliner, Kevin Ditadi
+<p> Nomes: Leonardo Demoliner, Kevin Ditadi <\p>
